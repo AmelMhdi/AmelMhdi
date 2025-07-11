@@ -1,9 +1,9 @@
-# 👩‍💻 Développeuse Fullstack JavaScript / TypeScript
+# 👩‍💻 Développeuse Fullstack
 **Spécialisation React & Node.js** · Passionnée par l'accessibilité
 
-Je suis une développeuse fullstack fraîchement diplômée d'O'clock, avec une appétence particulière pour l'accessibilité et une curiosité constante pour les technologies web.
+Je suis Amel, une développeuse fullstack fraîchement diplômée d'O'clock, avec une appétence particulière pour l'accessibilité et une curiosité constante pour les technologies web.
 
-Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrage pour sourd·es et malentendant·es** (SME). Cette expérience m'a profondément sensibilisée à l'**accessibilité** et à l'impact que peut avoir la tech sur une société plus inclusive.
+Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrage pour sourd·es et malentendant·es** (SME). Cette expérience m'a sensibilisée à l'**accessibilité** et à l'impact que peut avoir la tech sur une société plus inclusive.
 
 ✨ Rigoureuse, autonome et attentive au détail, je m'efforce de produire un code **propre**, **compréhensible** et **maintenable**, avec toujours en tête l'expérience utilisateur et la lisibilité technique.
 
@@ -23,7 +23,6 @@ Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrag
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?logo=radix-ui&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
@@ -40,7 +39,6 @@ Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrag
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-![Whimsical](https://img.shields.io/badge/-Whimsical-5F28E2?logo=whimsical&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 
 **Méthodologies :** Agile, Kanban, Scrum
@@ -62,10 +60,6 @@ Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrag
 
 ## 💬 Langues
 🇫🇷 **Français** (natif) · 🇬🇧 **Anglais** (C2) · 🇪🇸 **Espagnol** (B2) · 🇰🇷 **Coréen** (A2)
-
-## 📊 Statistiques GitHub
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=amelmhdi&layout=compact&theme=dark)
 
 
 ---
