@@ -7,11 +7,11 @@ Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrag
 
 ✨ Rigoureuse, autonome et attentive au détail, je m'efforce de produire un code **propre**, **compréhensible** et **maintenable**, avec toujours en tête l'expérience utilisateur et la lisibilité technique.
 
-## 🚀 Ce que je fais actuellement
-- 🌐 Site vitrine en **Next.js** pour une startup réunionnaise
-- 🎓 Approfondissement de l'architecture MVC et des bonnes pratiques
+## Ce que je fais actuellement
+- Site vitrine en **Next.js** pour une startup réunionnaise
+- Approfondissement de l'architecture MVC et des bonnes pratiques
 
-## 💼 Stack & Compétences
+## Stack & Compétences
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -43,7 +43,7 @@ Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrag
 
 **Méthodologies :** Agile, Kanban, Scrum
 
-## 🎓 Formation & Parcours
+## Formation & Parcours
 **Développeuse Web & Mobile — O'clock (2025)**
 - Spécialisation Fullstack JavaScript : React / Node.js / PostgreSQL
 - Projet final en équipe avec gestion Agile et versioning Git
@@ -53,21 +53,20 @@ Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrag
 - Sensibilisation approfondie à l'accessibilité numérique
 - Rigueur dans la communication et l'adaptation des contenus
 
-## 🌱 Centres d'intérêt
-- **Accessibilité numérique** (a11y) - Création d'interfaces inclusives
-- **Automatisation** - Scripts et outils pour optimiser les workflows
+## Centres d'intérêt tech
+- **Accessibilité numérique** - Création d'interfaces inclusives
 - **UX Design** - Expérience utilisateur au cœur du développement
 
-## 💬 Langues
-🇫🇷 **Français** (natif) · 🇬🇧 **Anglais** (C2) · 🇪🇸 **Espagnol** (B2) · 🇰🇷 **Coréen** (A2)
+## Langues
+**Français** (natif) · **Anglais** (C2) · **Espagnol** (B2) · **Coréen** (A2)
 
 
 ---
 
-## 📫 Contact & Liens
+## Contact & Liens
 📧 **Email :** amel.m20@gmail.com  
 💼 **LinkedIn :** [linkedin.com/in/amelmohammedi](https://linkedin.com/in/amelmohammedi)
 
 ---
 
-*Merci d'être passé(e) ! N'hésitez pas à explorer mes repositories et à me contacter pour discuter ou collaborer* ✨
+*Merci d'être passé(e) ! N'hésitez pas à explorer mes repositories et à me contacter pour discuter ou collaborer*
