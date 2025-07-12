@@ -41,25 +41,8 @@ Avant le code, j'ai exercé dans le domaine de la **traduction et du sous-titrag
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 
-**Méthodologies :** Agile, Kanban, Scrum
-
-## Formation & Parcours
-**Développeuse Web & Mobile — O'clock (2025)**
-- Spécialisation Fullstack JavaScript : React / Node.js / PostgreSQL
-- Projet final en équipe avec gestion Agile et versioning Git
-- Focus sur l'accessibilité, les APIs REST et les bonnes pratiques
-
-**Expérience antérieure :** Traduction et sous-titrage SME (sourd·es et malentendant·es)
-- Sensibilisation approfondie à l'accessibilité numérique
-- Rigueur dans la communication et l'adaptation des contenus
-
-## Centres d'intérêt tech
-- **Accessibilité numérique** - Création d'interfaces inclusives
-- **UX Design** - Expérience utilisateur au cœur du développement
-
 ## Langues
 **Français** (natif) · **Anglais** (C2) · **Espagnol** (B2) · **Coréen** (A2)
-
 
 ---
 
