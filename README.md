@@ -43,8 +43,7 @@ Before coding, I worked in the field of **translation and subtitling for the dea
 ---
 
 ## Contact & Links
-📧 **Email:**  
-💼 **LinkedIn:** [
+📧 **Email:** amel.m20@gmail.com
 
 ---
 
